@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Yanmeeei
-- 👀 I’m interested in ...
-- 🌱 I’m currently ~~staring at autograders & waiting for 12 pm~~ learning CS in U-M Ann Arbor
-- 💞️ I’m looking to collaborate on ...
+- 👀 My portfolio is accessible [here](https://yanmeeei.github.io/yanmei_portfolio/)
+- 🌱 I’m currently learning CS at UMich Ann Arbor
 - 📫 How to reach me: wyanmei@umich.edu
 
 <!---
